@@ -3,6 +3,8 @@ hola soy juan
 tengo 23 a;os 
 soy de mexico 
 y quiero ser programador 
+Experimento1
+Experimento2
 Master 1 
 Master 2
 correccion voy a ser programador .
